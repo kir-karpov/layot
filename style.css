@@ -1,14 +1,12 @@
 .header {
     background: var(--unnamed, #3278FF);
-    height: 50px;
+    padding-top: 50px;
     width: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 62px;
-    padding-right: 0px;
+    padding: 13px 70px;
     margin-bottom: 215px;
-    gap: 1460px;
 }
 
 .phone-number {
@@ -18,7 +16,7 @@
   font-style: normal;
   font-weight: 600;
   line-height: normal;
-  margin-right: 70px;
+  padding-right: 70px;
 }
 
 .header-logo {
@@ -39,9 +37,8 @@
   text-align: center;
   box-shadow: 1px 1px 4px 0px rgba(0, 0, 0, 0.30);
   width: 330px;
-  padding-left: 15px;
   height: 500px;
-  margin-left: 20px;
+  padding: 19px 30px 24px 30px;
 }
 
 .product-img {
